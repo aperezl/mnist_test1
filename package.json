@@ -1,0 +1,17 @@
+{
+  "name": "mnist_test1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-node-gpu": "^1.1.2",
+    "zlib": "^1.0.5"
+  },
+  "devDependencies": {},
+  "description": ""
+}
