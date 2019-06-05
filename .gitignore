@@ -1,3 +1,4 @@
 node_modules
 *-ubyte
-model.fit
+model.fit/model.json
+model.fit/weights.bin
