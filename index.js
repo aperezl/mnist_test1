@@ -28,5 +28,5 @@ const run = async ({ epochs, batchSize }) => {
 
 }
 
-run({epochs: 1, batchSize: 128})
+run({epochs: 20, batchSize: 64})
 
